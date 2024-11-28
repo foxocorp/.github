@@ -5,7 +5,6 @@
 - [krabiworld](https://github.com/krabiworld) - Product manager and DevOps engineer
 - [WurAFox](https://github.com/WurAFox) - C++/Qt Developer
 - [Snak](https://github.com/SnakOleg) - [Frontend](https://github.com/Foxocorp/foxogram-frontend) Developer
-- [Krish](https://github.com/krishtall) - UI/UX Designer
 - [Kasefuchs](https://github.com/kasefuchs) - Code reviewer
 
 <img src="projects.png" alt="Foxogram Projects">
