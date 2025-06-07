@@ -1,4 +1,4 @@
-<img src="title.png" alt="Foxogram Floof.">
-<img src="projects.png" alt="Foxogram Projects">
+<img src="title.png" alt="FoxoChat Floof.">
+<img src="projects.png" alt="FoxoChat Projects">
 
-- Foxogram - blazingly fast messenger written in Java
+- FoxoChat - blazingly fast messenger written in Java
